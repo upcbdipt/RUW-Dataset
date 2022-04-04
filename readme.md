@@ -1,3 +1,8 @@
+<style>
+table {
+margin: auto;
+}
+</style>
 # RUW Dataset
 
 ​&emsp;&emsp;该数据集由中国石油大学（华东）青岛软件学院、计算机科学与技术学院大数据智能处理创新团队发布。
